@@ -1,1 +1,1 @@
-# mind_brain_models
+# mind brain models workshops 
