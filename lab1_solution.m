@@ -1,8 +1,4 @@
 %lab1 - Implementation of 2AFC experiment with optimal observer
-%   Used in MBM 2020/2021 to demonstrate scripting for workshop 1
-%   Will be distributed through Canvas
-%   Students will rename the script adding their ID to the name
-%
 %   Description:
 %       lab1 models an optimal observer in a psychophysical experiment.
 %       The experiment: At each trial, a standard stimulus and a comparison 
