@@ -3,8 +3,8 @@
 
 |   MATLAB workshops  	| Complete? 	|
 |:-------------------:	|-----------	|
-|   2IFC experiment   	|       yes    	|
-|    Distributions    	|           	|
+|   2IFC experiment   	|     yes    	|
+|    Distributions    	|   yes      	|
 |   Causal inference  	|           	|
 |  Inverted pendulum  	|           	|
 |        Social       	|           	|
