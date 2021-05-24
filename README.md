@@ -1,4 +1,4 @@
-# Mind Brain and Models workshops 
+# Mind Brain and Models MATLAB workshops 
 03 24299: LM Mind, Brain and Models. Massimiliano Di Luca
 
 ## Lab 1: 2IFC experiment 
