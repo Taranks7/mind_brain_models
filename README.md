@@ -1,27 +1,24 @@
 # Mind Brain and Models workshops 
 03 24299: LM Mind, Brain and Models. Massimiliano Di Luca
 
-|   MATLAB workshops     
-|:-------------------:
-|   2IFC experiment   	
-|    Distributions    	
-|   Causal inference  	
-|  Inverted pendulum  	
-|        Social       	
-| Coupled oscillators 	
-|       Learning      
-|        Touch        
-|      Dynamic Neural Fields     
-|        Vision 
-|     Neuron simulation 
+## Lab 1: 2IFC experiment 
 
-The module will give you the skills to implement computational models capturing the properties of neural and cognitive functions. Lectures will provide an overview of topics in computational and mathematical modelling in neuroscience, psychophysics, and psychology with an emphasis on the area of expertise of the lecturers. Topics will range from the processing of information at the neural level (i.e., integrate and fire neurons) to high-level cognitive phenomena (i.e., learning and action planning). Matlab programming will be used to implement the models discussed in the lectures, so students will gain hands-on experience.
+## Lab 2: Distributions 
 
-## Aims
-Translate a computational model in a script
-Test hypothesis using simulations
-Produce reports about quantitative model testing
-## Learning outcomes
-The module will give you the skills to implement computational models capturing the properties of neural and cognitive functions. Lectures will provide an overview of topics in computational and mathematical modelling in neuroscience, psychophysics, and psychology with an emphasis on the area of expertise of the lecturers. Topics will range from the processing of information at the neural level (i.e., integrate and fire neurons) to high-level cognitive phenomena (i.e., learning and action planning). Matlab programming will be used to implement the models discussed in the lectures, so students will gain hands-on experience.
+## Lab 3: Causal inference 
 
-You'll first refresh Matlab coding, learn to implement and test simple models producing a report and try a different kind of implementations over the course of the module, so to give you a flavour of all kind of models that exist out there.
+## Lab 4: Inverted pendulum 
+
+## Lab 5: Social segregation modelling
+
+## Lab 6: Coupled oscillators 	
+
+## Lab 7: Cerebellum and Motor Control
+
+## Lab 8: Modelling First-Order Tactile Neurons with TouchSim_v1
+
+## Lab 9: Dynamic Neural Fields 
+
+## Lab 10: Computational Vision  
+
+## Lab 11: Neuron action potential simulation
